@@ -1,12 +1,5 @@
 package org.example;
-
-import com.actions.Actions;
-import com.base.Base;
 import com.codoid.products.exception.FilloException;
-import com.pageObjects.BookAppointmentPage;
-import com.pageObjects.HomePage;
-import com.pageObjects.LoginPage;
-import com.utils.Utils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;

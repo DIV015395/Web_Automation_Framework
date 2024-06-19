@@ -1,18 +1,16 @@
 package org.example;
-
-import com.actions.Actions;
-import com.base.Base;
 import com.codoid.products.exception.FilloException;
-import com.pageObjects.HomePage;
-import com.utils.Utils;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.example.com.base.Base;
+import org.example.com.pageObjects.HomePage;
+import org.example.com.utils.Utils;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
-
 import java.io.IOException;
 import java.util.HashMap;
 
