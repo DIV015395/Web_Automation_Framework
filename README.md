@@ -27,7 +27,7 @@ Clone the Repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/web-automation-framework.git
+git clone (https://github.com/DIV015395/Web_Automation_Framework.git)
 Navigate to the Project Directory:
 
 sh
